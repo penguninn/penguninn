@@ -18,7 +18,8 @@ I value simplicity, reliability, and thoughtful engineering.
 ## Highlights
 
 - **Blog Platform** — React + Tiptap + Cloudinary + Caddy + Spring Boot  
-  FE: https://github.com/penguninn/blog-fe · BE: https://github.com/penguninn/blog-be
+  FE: https://github.com/penguninn/blog-fe
+  BE: https://github.com/penguninn/blog-be
 - **Portfolio** (shadcn + Tailwind)  
   https://github.com/penguninn/portfolio
 - **Dotfiles / Neovim**  
