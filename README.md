@@ -1,4 +1,4 @@
-💬 *"Build it simple. Make it scalable."*
+💬 *"Simply lovely."*
 
 ### Hi there, I'm [Macvuanh Dai](https://penguninn.com/) 👋
 
