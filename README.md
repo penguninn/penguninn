@@ -6,7 +6,7 @@ Software Engineer focused on building **scalable backends** and **clean, modern 
 I value simplicity, reliability, and thoughtful engineering.
 
 - Strengths: Java + Spring Boot · React + TypeScript · MySql/MongoDB · Docker
-- I write about dev & cloud: https://blog.penguninn.com
+- I write about dev & cloud: https://blog.pengunin.me
 
 **I'm open to**:
 
@@ -17,7 +17,7 @@ I value simplicity, reliability, and thoughtful engineering.
 
 ## Highlights
 
-- **Blog Platform** — React + Tiptap + Cloudinary + Caddy + Spring Boot  
+- **Blog Platform** — React + Tiptap + Cloudinary + Nginx + Spring Boot  
   FE: https://github.com/penguninn/blog-fe
   BE: https://github.com/penguninn/blog-be
 - **Portfolio** (shadcn + Tailwind)  
